@@ -1,0 +1,7 @@
+.TodoList{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 370px;
+    margin: 0 auto;
+}
